@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="메ㅔ_icon.png" width="100" alt="BambuLapsmaker Icon"/>
+<img src="app_icon.png" width="100" alt="BambuLapsmaker Icon"/>
 
 # Bambulab Lapsmaker
 
