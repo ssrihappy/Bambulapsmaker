@@ -228,25 +228,6 @@ Bambu Lab P1 프린터
 
 ---
 
-## 🖥 CLI 독립 실행 (선택 사항)
-
-GUI 없이 터미널에서도 사용 가능합니다.
-
-**캡처만 실행**
-
-```bash
-python layer_capture.py
-```
-
-> `layer_capture.py` 상단의 설정값을 직접 수정 후 실행
-
-**영상 변환만 실행**
-
-```bash
-python make_video.py --fps 30 --width 1920
-python make_video.py --dir ./snapshots --out timelapse.mp4 --fps 60 --width 3840
-```
-
 | 인자 | 설명 | 기본값 |
 |---|---|---|
 | `--dir` | 스냅샷 폴더 경로 | `./snapshots` |
